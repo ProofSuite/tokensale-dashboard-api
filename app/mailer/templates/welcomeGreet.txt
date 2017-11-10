@@ -1,0 +1,3 @@
+<p>Hello #name, </p>
+<p> Thank You for registering with us! </p>
+<p> Your OTP for verification is : </p> <b>#otpCode</b>

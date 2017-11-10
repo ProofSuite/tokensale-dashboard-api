@@ -1,0 +1,2 @@
+<p>We have received your request for OTP.</p>
+<p> Your OTP for verification is : </p> <b>#otpCode</b>
